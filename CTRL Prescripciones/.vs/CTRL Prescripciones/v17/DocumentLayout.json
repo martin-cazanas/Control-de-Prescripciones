@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\ctrl prescripciones\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|solutionrelative:ctrl prescripciones\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|c:\\users\\ricar\\onedrive - instituto politecnico nacional\\escuela\\universidad\\servicio social\\proyectos\\control de prescripciones\\ctrl prescripciones\\ctrl prescripciones\\divisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|solutionrelative:ctrl prescripciones\\divisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\ctrl prescripciones\\divisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|solutionrelative:ctrl prescripciones\\divisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\ctrl prescripciones\\dao\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|solutionrelative:ctrl prescripciones\\dao\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\ctrl prescripciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71243890-7C91-4070-8401-847290C5DCB3}|CTRL Prescripciones\\CTRL Prescripciones.csproj|solutionrelative:ctrl prescripciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Orden.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Orden.cs",
+              "RelativeDocumentMoniker": "CTRL Prescripciones\\Orden.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Orden.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CTRL Prescripciones\\Orden.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T08:11:27.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Divisiones.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Divisiones.cs",
+              "RelativeDocumentMoniker": "CTRL Prescripciones\\Divisiones.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Divisiones.cs",
+              "RelativeToolTip": "CTRL Prescripciones\\Divisiones.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:49:19.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Divisiones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Divisiones.cs",
+              "RelativeDocumentMoniker": "CTRL Prescripciones\\Divisiones.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Divisiones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CTRL Prescripciones\\Divisiones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:49:06.165Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\DAO\\Conexion.cs",
+              "RelativeDocumentMoniker": "CTRL Prescripciones\\DAO\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\DAO\\Conexion.cs",
+              "RelativeToolTip": "CTRL Prescripciones\\DAO\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T04:47:18.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Form1.cs",
+              "RelativeDocumentMoniker": "CTRL Prescripciones\\Form1.cs",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive - Instituto Politecnico Nacional\\Escuela\\Universidad\\Servicio Social\\Proyectos\\CONTROL DE PRESCRIPCIONES\\CTRL Prescripciones\\CTRL Prescripciones\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CTRL Prescripciones\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T19:18:58.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
